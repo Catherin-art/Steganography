@@ -22,7 +22,9 @@ Ensure you have the following installed:
    git clone https://github.com/your-username/steganography.git
    cd steganography
 
-2.Install dependencies
+2. Install dependencies:
+
+```bash 
 pip install opencv-python
 
 
