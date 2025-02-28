@@ -1,25 +1,26 @@
 # Cybersecurity - Steganography
-Secure Data Hiding in Image Using Steganography
-    This project implements a simple steganography technique to securely hide a secret message inside an image using OpenCV in Python.
 
-Features:
-*Encrypts a secret message into an image.
-*Uses a passcode for decryption.
-*Extracts and displays the hidden message upon correct passcode entry.
-*Uses pixel modification for data encoding.
-*Prerequisites
+## Secure Data Hiding in Image Using Steganography
 
+This project implements a simple steganography technique to securely hide a secret message inside an image using OpenCV in Python.
+
+## Features
+- Encrypts a secret message into an image.
+- Uses a passcode for decryption.
+- Extracts and displays the hidden message upon correct passcode entry.
+- Uses pixel modification for data encoding.
+
+## Prerequisites
 Ensure you have the following installed:
-Python 3.x
-OpenCV (cv2)
-OS module (built-in)
+- Python 3.x
+- OpenCV (`cv2`)
+- OS module (built-in)
 
-
-
-Installation:
-1.Clone this repository
-git clone https://github.com/catherin-art/steganography.git
-cd steganography
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/steganography.git
+   cd steganography
 
 2.Install dependencies
 pip install opencv-python
